@@ -6,6 +6,7 @@ import java.io.*;
 import java.util.*;
 
 public class EmployeeManager {
+    //constants
     private final String FILE_NAME = "res/employees.txt";
     //attributes
     private ArrayList<Employee> employees;
